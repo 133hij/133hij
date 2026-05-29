@@ -1,7 +1,7 @@
 # 🛡️ Abdulrahman Hamdy | Systems & Security Specialist
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Systems+Architect;Offensive+Security+Researcher;Arch+Linux+Specialist;Adversarial+Strategist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Systems+Architect;Offensive+Security+Researcher;Arch+Linux+User;Adversarial+Strategist;Passionate+about+games; PC+building " alt="Typing SVG" />
 </p>
 
 <p align="center">
